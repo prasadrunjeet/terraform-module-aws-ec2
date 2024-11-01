@@ -1,2 +1,3 @@
-# terraform-module-aws-ec2
-Easily provision and manage Amazon EC2 instances with customizable configurations in a reusable format
+# Terraform Module: AWS EC2
+
+This Terraform module simplifies the provisioning and management of Amazon EC2 instances on AWS. It allows users to define instance configurations such as AMI ID, instance type, key pairs, security groups, and tags in a reusable and modular format. With built-in support for best practices and common configurations, this module facilitates the rapid deployment of scalable and reliable EC2 instances in various environments, ensuring efficient infrastructure management.
